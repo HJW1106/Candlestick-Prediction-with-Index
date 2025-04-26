@@ -7,4 +7,4 @@
 
 3. 產生測試資料集：執行[`test_data.ipynb`](test_data.ipynb)
 
-4. 進行回測：執行[`backtest.ipynb`](backtest.ipynb)分段進行回測，在執行
+4. 進行回測：執行[`backtest.ipynb`](backtest.ipynb)分段進行回測，再執行[`backtest_data.ipynb`](backtest_data.ipynb)整合。
