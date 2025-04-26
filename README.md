@@ -5,6 +5,6 @@
 
 2. 將資料加入訓練模型：執行模型[`Model.ipynb`](Model.ipynb)
 
-3. 產生測試資料集 **[測試資料產生](test/README.md)**
+3. 產生測試資料集：執行[`test_data.ipynb`](test_data.ipynb)
 
-4. 進行回測 **[回測](backtest/README.md)**
+4. 進行回測：執行[`backtest.ipynb`](backtest.ipynb)分段進行回測，在執行
